@@ -7,10 +7,6 @@ When a suspicious pattern is detected, traders can use the BPA app to send marke
 ## What is ESAG and ES
 **Event State API Gateway** is an API upstream of Event State designed to facilitate the publication of messages from client applications to Event State through a simple Rest API. In turn, Event State acts as a central hub, aggregating data from the Trading Tribe's sports models and feeds, and providing a delta feed of changes to Events, Markets, and Selections.
 
-## What is MPM
-**MPM**, standing for `Manual Product Management`, is a **User Interface (UI)** complemented by a suite of services designed to support traders with live updates.  
-During the **GTT** development phase, ownership of **MPM** was ambiguous, but it has since found its place within **GPD** where it aligns strategically.
-
 ## What have we achieved so far?
 We have implemented a process that allows traders to respond swiftly to unusual betting patterns.  
 When the BPA app identifies a risky bet pattern, the affected market can be immediately suspended.  

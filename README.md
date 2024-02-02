@@ -5,7 +5,8 @@ The **Bet Pattern Alarm** app is an application utilized by Fanduel traders to m
 When a suspicious pattern is detected, traders can use the BPA app to send market suspend and lock messages to Event State via ESAG, using the RAMP Market ID as the market identifier.
 
 ## What is ESAG and ES
-**Event State API Gateway** is an API upstream of Event State designed to facilitate the publication of messages from client applications to Event State through a simple Rest API. In turn, Event State acts as a central hub, aggregating data from the Trading Tribe's sports models and feeds, and providing a delta feed of changes to Events, Markets, and Selections.
+**Event State API Gateway** is an API upstream of Event State designed to facilitate the publication of messages from client applications to Event State through a simple Rest API.  
+In turn, Event State acts as a central hub, aggregating data from the Trading Tribe's sports models and feeds, and providing a delta feed of changes to Events, Markets, and Selections.
 
 ## What have we achieved so far?
 We have implemented a process that allows traders to respond swiftly to unusual betting patterns.  
